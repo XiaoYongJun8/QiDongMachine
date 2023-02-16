@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "CH374DRV.C": "cpp",
+        "CH374HFM.H": "cpp"
+    }
+}
